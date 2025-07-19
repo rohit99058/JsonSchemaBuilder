@@ -11,7 +11,7 @@ A dynamic React-based tool to visually build JSON schemas with nested support an
 - Real-time JSON preview
 
 
-[Click here to see it live]{"https://jsonschemabuilder.onrender.com"}
+[Click here to see it live](https://jsonschemabuilder.onrender.com)
 
 ## 🛠️ Tech Stack
 
